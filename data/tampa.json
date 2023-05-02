@@ -1,0 +1,43 @@
+{
+	"base": "stations", 
+	"clouds": {
+	  "all": 20
+	}, 
+	"cod": 200, 
+	"coord": {
+	  "lat": 27.9475, 
+	  "lon": -82.4584
+	}, 
+	"dt": 1635203064, 
+	"id": 4174757, 
+	"main": {
+	  "feels_like": 79.83, 
+	  "humidity": 90, 
+	  "pressure": 1011, 
+	  "temp": 79.83, 
+	  "temp_max": 82.2, 
+	  "temp_min": 77.72
+	}, 
+	"name": "Tampa", 
+	"sys": {
+	  "country": "US", 
+	  "id": 2005199, 
+	  "sunrise": 1635161779, 
+	  "sunset": 1635202270, 
+	  "type": 2
+	}, 
+	"timezone": -14400, 
+	"visibility": 10000, 
+	"weather": [
+	  {
+		"description": "few clouds", 
+		"icon": "10d", 
+		"id": 801, 
+		"main": "Clouds"
+	  }
+	], 
+	"wind": {
+	  "deg": 270, 
+	  "speed": 4.61
+	}
+  }
