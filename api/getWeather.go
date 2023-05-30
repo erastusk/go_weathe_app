@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-// url = "https://api.openweathermap.org/data/2.5/weather?q={city_name}&units=imperial&appid=abf5cde6ff725334c4c2dab475a4ba51"
+// url = "https://api.openweathermap.org/data/2.5/weather?q={city_name}&units=imperial&appid=APIkey"
 type GetWeather struct {
 	ctx     context.Context
 	city    string
